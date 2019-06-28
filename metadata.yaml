@@ -1,5 +1,8 @@
 _repo: Cartoons-by-Sir-John-Tenniel-Selected-from-the-pages-of-Punch_59801
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59801-h/images/cover.jpg
 creator:
   author:
     agent_name: Tenniel, John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/74
     wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59801#Cartoons-by-Sir-John-Tenniel-Selected-from-the-pages-of-Punch
 gutenberg_issued: '2019-06-24'
 gutenberg_type: Text
 identifiers:
